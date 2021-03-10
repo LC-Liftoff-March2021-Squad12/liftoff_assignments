@@ -10,7 +10,7 @@ Navigation bar page 2 wireframe link: https://app.moqups.com/E274u4yz3O/view/pag
 
 Wireframe  | Feature | Assignee       
 _____________________________________________
-Login Page     | Login     | Jack, Jon		  
+Login Page     | Login     | Jack, Jon, Gloria		  
 
 Navigator bar 1| Navigator | Courtney, Shelby
 
