@@ -10,11 +10,9 @@ Navigation bar page 2 wireframe link: https://app.moqups.com/E274u4yz3O/view/pag
 
 Wireframe  | Feature | Assignee       
 -----------|---------|------------------------|
-Login Page     | Login     | Jack, Jon, Gloria		  
-
-Navigator bar 1| Navigator | Courtney, Shelby
-
-Navigator bar 2| Navigator | Courtney, Shelby
+Login Page     | Login     | Jack, Jon, Gloria|		  
+Navigator bar 1| Navigator | Courtney, Shelby |
+Navigator bar 2| Navigator | Courtney, Shelby |
 
 ## Public Project Tracker
 A link to your public project tracker (i.e. Trello). As part of the setup for this class, you created a project tracker and a project. Make sure you have added your MVP user stories and moved your initial stories into the “Next” column. Your stories should be clear and formatted as proper user stories and not just tasks.
